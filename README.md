@@ -3,20 +3,20 @@
 
 Learning Goals & Outcomes
 
-Learn to model, cleanse, normalize, shard, map, query and analyze substantial real-world data (230mb+);
+Learned to model, cleanse, normalize, shard, map, query and analyze substantial real-world data (230mb+);
 
-Understand the data cleansing, normalization and sharding processes by writing PYTHON scripts to process and convert the data to first (cleansed) CSV and then (normalized) SQL;
+Understood the data cleansing, normalization and sharding processes by writing PYTHON scripts to process and converted the data to first (cleansed) CSV and then (normalized) SQL;
 
-Design and implement a relational (MySQL) database and then write a PYTHON script to pipe (import) the cleansed data into the appropriate tables ensuring all integrity constraints are met.
+Designed and implemented a relational (MySQL) database and then wrote a PYTHON script to pipe (import) the cleansed data into the appropriate tables ensuring all integrity constraints are met.
 
-Construct and implement a set of SQL queries to extract data using various filters and constraints.
+Constructed and implemented a set of SQL queries to extract data using various filters and constraints.
 
-Map (forward engineer) the data to a NoSQL database of your choice (MongoDB, BaseX, CouchBase, ArangoDB etc.)
+Mapped (forward engineer) the data to a NoSQL database of your choice (MongoDB)
 
-Write a short, reflective report on the learning outcomes you have achieved.
+Wrote a short, reflective report on the learning outcomes you have achieved.
 
-Get exposure to and learn the use of a range of data oriented technologies (databases, python & sql.)
+Got exposure to and learned the use of a range of data oriented technologies (databases, python & sql.)
 
-Learn and use the MARKDOWN markup syntax.
+Learned and use the MARKDOWN markup syntax.
 
 The data is enclosed in a zip folder as it was too large to be uploaded
